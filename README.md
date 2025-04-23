@@ -2,7 +2,7 @@
 
 This project explores an ICU dataset to build predictive models for a variety of healthcare metrics using regression techniques and time series forecasting. This investigation is done using Jupyter Notebooks.
 
-### 🔬 Main Notebooks
+### Main Notebooks
 
 - **`FYP.ipynb`**  
   The initial jupyter notebook created for my final year project. It includes data understanding, exploratory data analysis (EDA), preprocessing, feature engineering, to model evaluation and visualization.
